@@ -8,4 +8,4 @@ Neste exemplo usamos o gitHub como repositorio dos arquivos properties com as co
 http://localhost:8888/digital-config-service/digital-documento-service-dev/master
 
 #### modelo da arquitetura.
-https://www.canchito-dev.com/public/blog/wp-content/uploads/2019/07/Spring-Boot-Config-Server-and-client-side-support-for-externalized-configuration.png
+![alt text]([http://url/to/img.png](https://www.canchito-dev.com/public/blog/wp-content/uploads/2019/07/Spring-Boot-Config-Server-and-client-side-support-for-externalized-configuration.png)https://www.canchito-dev.com/public/blog/wp-content/uploads/2019/07/Spring-Boot-Config-Server-and-client-side-support-for-externalized-configuration.png)
